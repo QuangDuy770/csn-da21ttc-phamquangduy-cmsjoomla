@@ -1,6 +1,6 @@
 # csn-da21ttc-phamquangduy-cmsjoomla
 <h1>TRIỂN KHAI JOOMLA TRÊN NỀN TẢNG HỆ ĐIỀU HÀNH MÃ NGUỒN MỞ</h1>
-<BR>
+
 Sinh viên thực hiện: Phạm Quang Duy<br>
 GV hướng dẫn: ThS Nguyễn Hoàng Duy Thiện<br>
 Email: qz1247@gmail.com<br>
