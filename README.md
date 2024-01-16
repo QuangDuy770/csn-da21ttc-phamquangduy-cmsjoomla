@@ -2,8 +2,11 @@
 <h1>TRIỂN KHAI JOOMLA TRÊN NỀN TẢNG HỆ ĐIỀU HÀNH MÃ NGUỒN MỞ</h1>
 <BR>
 Sinh viên thực hiện: Phạm Quang Duy<br>
-GV hướng dẫn: ThS Nguyễn Hoàng Duy Thiện
+GV hướng dẫn: ThS Nguyễn Hoàng Duy Thiện<br>
+Email: qz1247@gmail.com<br>
+SĐT: 0375875251<br>
 
+<h3>Báo cáo tiến độ</h3>
 <br>
 Tuần 1: Tìm hiểu công cụ ảo hoa và cài đặt phần mềm
 <br>
