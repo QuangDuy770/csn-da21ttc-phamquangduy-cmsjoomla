@@ -7,7 +7,7 @@ Email: qz1247@gmail.com<br>
 SĐT: 0375875251<br>
 
 <h3>Báo cáo tiến độ</h3>
-<br>
+
 Tuần 1: Tìm hiểu công cụ ảo hoa và cài đặt phần mềm
 <br>
 Tuần 2: Cài đặt các phần mềm và dịch vụ cần thiết
